@@ -5,3 +5,7 @@ The point of this project is to have each key, when pressed, make a correspondin
 ## Author 
 > Nishkarsh01
 
+
+## Screenshots 📷
+![drumKit-Project Screenshot](screenshots/)
+
