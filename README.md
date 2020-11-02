@@ -7,7 +7,7 @@ The point of this project is to have each key, when pressed, make a correspondin
 
 
 ## Screenshots 📷
-![drumKit-Project Screenshot](screenshots/)
+![drumKit-Project Screenshot](screenshots/1.png)
 
 
 ## Live Demo 
