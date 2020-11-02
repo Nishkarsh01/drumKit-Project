@@ -9,3 +9,8 @@ The point of this project is to have each key, when pressed, make a correspondin
 ## Screenshots 📷
 ![drumKit-Project Screenshot](screenshots/)
 
+
+## Live Demo 
+
+ [https://nishkarsh01.github.io/drumKit-Project/](https://nishkarsh01.github.io/drumKit-Project/)
+
